@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/ghostty
+!/.config/ghostty/config
+!/.gitignore.d
+!/.gitignore.d/ghostty
